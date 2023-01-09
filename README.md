@@ -32,7 +32,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/vicente-machado">
+<a href="https://github.com/vicente9797">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vicente9797&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
 </p>
@@ -40,5 +40,5 @@
 ### 🤝 &nbsp;Connect with Me </h3>
 <p align="center">
   <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-www.vicente9797.com-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="mailto:contacto.vicentemachadomolina@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contacto.vicentemachadomolina@ghotmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:contacto.vicentemachadomolina@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contacto.vicentemachadomolina@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
