@@ -14,7 +14,7 @@
   ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=bulma)
 - &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Vue.JS](https://img.shields.io/badge/-Vue.JS-333333?style=flat&logo=vue.js)
 - &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
 - &nbsp;
