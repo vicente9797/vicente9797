@@ -31,4 +31,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vicente9797&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
+### 🤝 &nbsp;Connect with Me </h3>
+<p align="center">
+  <a href="#"><img alt="Linkedin" src="https://img.shields.io/badge/Website-https://www.linkedin.com/in/vicente-machado/-blue?style=flat-square&logo=google-chrome"></a>
+</p>
