@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 - 🎓 &nbsp; Im Progammer Analyst from INACAP.
 - 💼 &nbsp; Working as a Fullstack Developer in LIRMI Spa.
-- Contact With Me -->[Linkedin](https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin)
+- Contact With Me --> ![Linkedin](https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin)
 
 ### 🛠️ &nbsp;Tech Stack
 - &nbsp;
