@@ -34,6 +34,5 @@
 ### 🤝 &nbsp;Connect with Me </h3>
 <p align="center">
  <a href="https://www.linkedin.com/in/vicente-machado/">
- [Linkedin](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 </a>
 </p>
