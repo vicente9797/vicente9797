@@ -33,6 +33,7 @@
 
 ### 🤝 &nbsp;Connect with Me </h3>
 <p align="center">
-  <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-www.vicente9797.com-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="mailto:contacto.vicentemachadomolina@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contacto.vicentemachadomolina@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+ <a href="https://www.linkedin.com/in/vicente-machado/">
+ [Linkedin](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+</a>
 </p>
