@@ -3,6 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 - 🎓 &nbsp; Im Progammer Analyst from INACAP.
 - 💼 &nbsp; Working as a Fullstack Developer in LIRMI Spa.
+- [Linkedin](https://www.linkedin.com/in/vicente-machado/)
 
 ### 🛠️ &nbsp;Tech Stack
 - &nbsp;
@@ -31,8 +32,3 @@
 </a>
 </p>
 
-### 🤝 &nbsp;Connect with Me </h3>
-<p align="center">
- <a href="https://www.linkedin.com/in/vicente-machado/">
-</a>
-</p>
