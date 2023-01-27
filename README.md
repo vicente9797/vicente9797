@@ -33,5 +33,5 @@
 </p>
 ### 🤝 &nbsp;Connect with Me </h3>
 <p align="center">
-  <a href="#"><img alt="Linkedin" src="https://img.shields.io/badge/Website-https://www.linkedin.com/in/vicente-machado/-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-https://www.linkedin.com/in/vicente-machado/-blue?style=flat-square&logo=google-chrome"></a>
 </p>
