@@ -33,5 +33,5 @@
 </p>
 ### 🤝 &nbsp;Connect with Me </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/vicente-machado/"><img alt="Linkedin" src="(https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)"></a>
+  <a href="https://www.linkedin.com/in/vicente-machado/"><img alt="Linkedin" src="https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis"></a>
 </p>
