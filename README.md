@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Vicente Machado.
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🎓 &nbsp; Im Progammer Analyst from INACAP.
+- 🎓 &nbsp; Im Computer Engineer.
 - 💼 &nbsp; Working as a Fullstack Developer in LIRMI Spa.
 - Contact With Me --> ![Linkedin](https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin)
 
