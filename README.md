@@ -9,28 +9,13 @@
 
 ---
 
-### 🛠️ &nbsp;Tech Stack  
 
-**Backend:**  
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)  
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)  
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)  
-![Passport](https://img.shields.io/badge/-Laravel%20Passport-333333?style=flat&logo=laravel)  
+### 🛠️ Tech Stack
 
-**Frontend:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)  
-![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=bulma)  
+| Backend | Frontend | Infra & Tools |
+|---------|----------|---------------|
+| ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) ![Passport](https://img.shields.io/badge/-Laravel%20Passport-333333?style=flat&logo=laravel) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq) | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js) ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=bulma) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?logo=tailwind-css) ![Inertia.js](https://img.shields.io/badge/-Inertia.js-333333?style=flat&logo=inertia) | ![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql) ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx) ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions) |
 
-**Infra & Tools:**  
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
-![PhpStorm](https://img.shields.io/badge/PhpStorm-333333?style=flat&logo=phpstorm&logoColor=007acc)  
-![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)  
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)  
-
----
 
 ### 📌 Featured Projects  
 - 🔹 **School Management MVP** → Minimalist educational management platform built with **Laravel + Vue**.  
