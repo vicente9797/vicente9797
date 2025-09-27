@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Vicente Machado  
 
 ### 👨🏻‍💻 &nbsp;About Me  
-- 🚀 Software Engineer, Fullstack Developer, and Team Lead at **LIRMI Spa**.  
-- 💡 Passionate about building **scalable solutions** with **Laravel 11** and **Vue 3**.  
-- 🧪 Practitioner of **TDD**, optimization, and clean architecture.  
-- 🎯 Focused on writing **clear and minimalist code**.  
+- 🚀 Software Engineer & Technical Lead at **LIRMI Spa** with 3+ years of experience.  
+- 💡 Specialized in **Laravel 11, Vue 3, and PostgreSQL** to build scalable web applications.  
+- 🧪 Experienced in **backend architecture, microservices, performance optimization, and automation**.  
+- 🌍 Strong focus on **team mentorship, clean architecture, and long-term scalability**.  
+- 🎯 Motivation: build **robust, modern, and impactful software** while empowering dev teams with best practices.  
 
 ---
 
@@ -32,9 +33,10 @@
 ---
 
 ### 📌 Featured Projects  
-- 🔹 **School Management MVP** → Minimalist platform built with Laravel + Vue for educational management.  
-- 🔹 **Curricular Coverage Tardis** → Query optimization with PostgreSQL and Laravel.  
-- 🔹 **Microservices vs Monolith** → Experimentation with scalable architectures.  
+- 🔹 **School Management MVP** → Minimalist educational management platform built with **Laravel + Vue**.  
+- 🔹 **Microservices vs Monolith** → Experimental architectures for scalability using **Redis & RabbitMQ**.  
+- 🔹 **Automated Reporting System** → Massive PDF/Excel exports with **Artisan Commands** and CI pipelines.  
+- 🔹 **AI-powered Suggestions** → Integrated **OpenAI APIs** for smart recommendations inside educational apps.  
 
 ---
 
