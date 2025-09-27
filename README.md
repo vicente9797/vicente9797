@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vicente Machado  
 
 ### 👨🏻‍💻 &nbsp;About Me  
-- 🚀 Software Engineer & Technical Lead at **LIRMI Spa** with 3+ years of experience.  
+- 🚀 Software Engineer & Technical Lead at **LIRMI Spa** with 4+ years of experience.  
 - 💡 Specialized in **Laravel 11, Vue 3, and PostgreSQL** to build scalable web applications.  
 - 🧪 Experienced in **backend architecture, microservices, performance optimization, and automation**.  
 - 🌍 Strong focus on **team mentorship, clean architecture, and long-term scalability**.  
